@@ -23,6 +23,8 @@
 		</ol>
 		<div>
 		<a href="https://bootcamp-coders.cnm.edu/" target="_blank">Go to CNM Coding Site </a>
-			</div>
+		</div>
+		<img src="images/Westie.jpg" alt="Westie" />
 	</body>
+	
 </html>
