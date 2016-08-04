@@ -20,7 +20,7 @@
 			<p id="first-paragraph">Galão qui <strong>strong</strong> foam black iced siphon <em>organic</em> caffeine plunger pot. Affogato instant kopi-luwak half and half sugar black single shot. Brewed aftertaste et, aftertaste sugar cinnamon, body sugar ristretto aroma iced. Ut, variety fair trade arabica lungo ut, cappuccino instant single shot and sugar.
 
 				And single shot, blue mountain french press, caramelization cultivar mug filter grinder. Cappuccino spoon, at flavour and organic to go mug whipped at aged organic. Arabica blue mountain, robusta, mocha, aftertaste ut sweet fair trade white.</p>
-			<h2 class="pretty-title red-text">About Me</h2>
+			<h1 class="pretty-title red-text">About Me</h1>
 			<p>, blue mountain french press, caramelization cultivar mug filter grinder. Cappuccino spoon, at flavour and organic to go mug whipped at aged organic</p>
 			<ul>
 				<li>Starbucks</li>

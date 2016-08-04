@@ -1,0 +1,31 @@
+/* comment /*
+/*style sheet for html sandbox*/
+
+/*h1 {
+	color: fuchsia;
+	font-size: 50px;
+	background-color: black;
+}
+/* class */
+/*.pretty-title {
+	color: turquoise;
+	background-color: rebeccapurple;
+	border-radius: 20px;
+}
+/*id */
+/*#first-paragraph {
+	background-color: mediumaquamarine;
+	border: 5px dotted turquoise;
+
+}*/
+
+#first-paragraph {
+	background: url("../images/Westie.jpg");
+	border: solid 10px maroon;
+	font-family: sans-serif;
+	font-size: 16px;
+	padding:10px 20px;
+	margin:50px;
+
+
+}
